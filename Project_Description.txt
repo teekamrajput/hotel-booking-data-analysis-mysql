@@ -1,0 +1,13 @@
+Hotel Booking Data Analysis | MySQL
+
+Analyzed 5,000 hotel booking records using MySQL to evaluate booking patterns, cancellation behavior, revenue performance, market segments, hotel performance, country-level trends, and monthly revenue.
+
+Key SQL techniques:
+SELECT, WHERE, GROUP BY, ORDER BY, aggregate functions, CASE WHEN, CTEs, date functions, and window functions including RANK().
+
+Key findings:
+• Total booking value: 200.12M
+• Realized revenue: 52.41M
+• Revenue realization rate: 26.19%
+• City Hotel contributed 66.54% of realized revenue.
+• Online bookings contributed 48.62% of realized revenue.
